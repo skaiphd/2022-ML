@@ -1,2 +1,2 @@
-# 2022-ML
-Machine Learning Algorithm Implementation
+# 2022-ML Practice
+Machine Learning Algorithm Implementation 

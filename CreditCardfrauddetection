@@ -1,0 +1,11 @@
+
+# load and summarize the abalone dataset
+from pandas import read_csv
+from matplotlib import pyplot
+# load dataset
+url = 'https://raw.githubusercontent.com/jbrownlee/Datasets/master/abalone.csv'
+dataframe = read_csv(url, header=None)
+# summarize shape
+print(dataframe.shape)
+# summarize first few lines
+print(dataframe.head())
